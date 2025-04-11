@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page2 h1{
+  font-size: 40vw;
+  font-weight: 600;
+}

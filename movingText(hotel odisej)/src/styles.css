@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page1{
+  background-color: #E3E3C4;
+}
+.page2{
+  font-size: 4.5vw;
+  font-weight: 500;
+  line-height: 4.8vw;
+  background-color: #566143;
+  font-family: 'Segoe UI', Tahoma;
+}
+.page3{
+  background-color: #8a9c4d;
+}
